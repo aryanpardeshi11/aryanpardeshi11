@@ -12,7 +12,6 @@
 - 🌱 I'm always **learning and growing** in technology
 - 👯 I'm looking to **collaborate** on innovative ideas
 - 💬 Ask me about **HTML, TypeScript**
-- 📫 How to reach me: **[@aryanpardeshi11](https://github.com/aryanpardeshi11)**
 - ⚡ Fun fact: **I have 3 public repositories with 0 total stars!**
 
 ## 🛠️ Tech Stack & Tools
