@@ -68,18 +68,6 @@
 
 ---
 
-### 🎯 [portfolio-website-editing-and-learning](https://github.com/aryanpardeshi11/portfolio-website-editing-and-learning)
-
-> Created with StackBlitz ⚡️
-
-<div align="left">
-  
-![Stars](https://img.shields.io/github/stars/aryanpardeshi11/portfolio-website-editing-and-learning?style=social) 
-![Forks](https://img.shields.io/github/forks/aryanpardeshi11/portfolio-website-editing-and-learning?style=social) 
-![Language](https://img.shields.io/badge/Language-TypeScript-000000?style=flat-square&logoColor=white)
-
-</div>
-
 ## 📈 Profile Statistics
 
 <div align="center">
